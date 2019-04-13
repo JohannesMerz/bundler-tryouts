@@ -1,0 +1,12 @@
+{
+  "name": "jm-c",
+  "version": "0.0.0",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jm-helper": "^0.0.0",
+    "rollup": "^1.10.0"
+  }
+}
